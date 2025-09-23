@@ -1,3 +1,4 @@
+2 Вариант
 heights = [170, 180, 175, 190, 165, 190, 178]
 
 max_height = max(heights)
